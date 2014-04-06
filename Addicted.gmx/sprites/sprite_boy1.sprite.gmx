@@ -6,8 +6,8 @@
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>23</bbox_left>
-  <bbox_right>41</bbox_right>
+  <bbox_left>22</bbox_left>
+  <bbox_right>40</bbox_right>
   <bbox_top>11</bbox_top>
   <bbox_bottom>52</bbox_bottom>
   <HTile>0</HTile>
@@ -19,6 +19,6 @@
   <width>64</width>
   <height>64</height>
   <frames>
-    <frame index="0">images\sprite_boy_0.png</frame>
+    <frame index="0">images\sprite_boy1_0.png</frame>
   </frames>
 </sprite>

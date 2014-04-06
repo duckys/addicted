@@ -6,10 +6,10 @@
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>23</bbox_left>
-  <bbox_right>41</bbox_right>
-  <bbox_top>11</bbox_top>
-  <bbox_bottom>52</bbox_bottom>
+  <bbox_left>8</bbox_left>
+  <bbox_right>51</bbox_right>
+  <bbox_top>5</bbox_top>
+  <bbox_bottom>57</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
@@ -19,6 +19,6 @@
   <width>64</width>
   <height>64</height>
   <frames>
-    <frame index="0">images\sprite_boy_0.png</frame>
+    <frame index="0">images\sprite_needle_0.png</frame>
   </frames>
 </sprite>
