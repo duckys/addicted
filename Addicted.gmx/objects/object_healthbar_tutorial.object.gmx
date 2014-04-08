@@ -46,15 +46,15 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>view_xview + 30</string>
+            <string>view_xview + 15</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>view_yview+ 30</string>
+            <string>view_yview + 15</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>view_xview + 580</string>
+            <string>view_xview + 345</string>
           </argument>
           <argument>
             <kind>0</kind>
